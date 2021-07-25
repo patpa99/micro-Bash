@@ -1,6 +1,6 @@
 # micro-Bash
 
-### English language:
+## English language:
 
 December 2019
 
@@ -20,7 +20,7 @@ To compile and run the executable with Valgrind with the settings: --tool = memc
 The files were previously written, compiled, run and tested with Valgrind-3.13.0 on Ubuntu 18.04 LTS - 3.28.2.
 
 
-### Lingua italiana:
+## Lingua italiana:
 
 Dicembre 2019
 
